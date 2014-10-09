@@ -1,5 +1,5 @@
-#ifndef __GWU_VEC__
-#define __GWU_VEC__
+#ifndef __GWU_SZ_VEC__
+#define __GWU_SZ_VEC__
 
 #include <assert.h>
 //================================
@@ -49,4 +49,4 @@ public :
 
 
 
-#endif // __GWU_VEC__
+#endif // __GWU_SZ_VEC__
